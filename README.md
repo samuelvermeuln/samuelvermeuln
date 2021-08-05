@@ -1,5 +1,6 @@
 ### Olá, sou Samuel Vermeuln <img src="https://github.com/samuelvermeuln/samuelvermeuln/blob/main/Assets/Hi.gif" width="22px">
 
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 ---
 
 <br />
@@ -9,6 +10,7 @@
 - 💬 Pergunte-me sobre novas tecnologia noticias e ETC...
 - ⚡ Apaixonado por React Native e JS.
 - 😄 Bootcamp da RocketSeat de React JS
+- 📫Qual é a melhor forma de entrar em contato comigo? [Linkedin](https://www.linkedin.com/in/samuel-vermeuln)
 
 <br />
 
@@ -18,8 +20,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://github.com/samuelvermeuln/samuelvermeuln/blob/main/Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/samuelvermeuln/samuelvermeuln/blob/main/Assets/javascript.png" />
 
-<img align="left" alt="ReactNative" width="26px" src="https://github.com/samuelvermeuln/samuelvermeuln/blob/main/Assets/reactnative.png" />
-<img align="left" alt="ReactJs" width="26px" src="https://github.com/samuelvermeuln/samuelvermeuln/blob/main/Assets/reactjs.png" />
+<img align="left" alt="React Native" width="26px" src="https://github.com/samuelvermeuln/samuelvermeuln/blob/main/Assets/native.png" />
+<img align="left" alt="React Js" width="26px" src="https://github.com/samuelvermeuln/samuelvermeuln/blob/main/Assets/react.png" />
 
 <img align="left" alt="Python" width="26px" src="https://github.com/samuelvermeuln/samuelvermeuln/blob/main/Assets/python.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/samuelvermeuln/samuelvermeuln/blob/main/Assets/visual-studio-code.png" />
@@ -27,3 +29,13 @@
 
 <br />
 <br />
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://samuelvermeuln.vercel.app/api/spotify)](https://open.spotify.com/user/lz4wd1taonp21jl4dnns9j912)
+
+---
