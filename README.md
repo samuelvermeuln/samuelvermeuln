@@ -5,8 +5,7 @@
 
 <br />
 
-- 🔭 Atualmente estou trabalhando em um projeto Mobile com React Native e API -> ASP.NET Core.
-- 🌱 Atualmente estou aprendendo Python na faculdade.
+- 🔭 Atualmente estou atuando com ReactJS, Angular e ASP.NET Core.
 - 💬 Pergunte-me sobre novas tecnologia noticias e ETC...
 - ⚡ Apaixonado por React Native e JS.
 - 😄 Bootcamp da RocketSeat de React JS
