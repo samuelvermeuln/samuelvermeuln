@@ -67,7 +67,7 @@
   <img align="center" alt="Samuel vermeuln | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/darshan_r_27/" target="_blank">
+<a href="https://www.instagram.com/vermeuln/" target="_blank">
   <img align="center" alt="Samuel vermeuln | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:samuelvermeuln@gmail.com" target="_blank">
