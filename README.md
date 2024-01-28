@@ -5,10 +5,9 @@
 
 <br />
 
-- 🔭 Atualmente estou atuando com ReactJS, Angular e ASP.NET Core.
+
 - 💬 Pergunte-me sobre novas tecnologia noticias e ETC...
-- ⚡ Apaixonado por React Native, ReactJS, Angular e C#.
-- 😄 Bootcamp da RocketSeat de React JS.
+- ⚡ Apaixonado por Ecossistema Java script
 - 📫Qual é a melhor forma de entrar em contato comigo? [Linkedin](https://www.linkedin.com/in/samuel-vermeuln)
 
 <br />
